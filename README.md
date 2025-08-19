@@ -5,10 +5,9 @@
 <br>
 <br>
 <br>
-<br>
 
 <!-- Tech Stacks -->
-<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;">🚀 **Tech Stacks**</p>
+<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;"><b>Tech Stacks</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -30,8 +29,10 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
+<br>
+
 <!-- Collaboration -->
-<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;">🤝 Collaboration</p>
+<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;"><b>Collaboration</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>

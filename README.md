@@ -7,7 +7,7 @@
 <br>
 
 <!-- Tech Stacks -->
-<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;"><b>Tech Stacks</b></p>
+<h3>Tech Stacks</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -32,7 +32,7 @@
 <br>
 
 <!-- Collaboration -->
-<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;"><b>Collaboration</b></p>
+<h3>Collaboration</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -52,10 +52,12 @@
 <div align="left">
 
   <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuni&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyyuni&layout=compact&theme=radical" />
 
   <h3>Git Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyuni&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical" />
 
+  <h3>Algorithm</h3>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
+  
 </div>
-

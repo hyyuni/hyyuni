@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Welcome!&fontSize=50&animation=twinkling&fontColor=ffffff&desc=to%20Sunghyun's%20Hub&descAlignY=75&descAlign=60)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Welcome!&fontSize=50&animation=twinkling&fontColor=ffffff&desc=to%20Sunghyun's%20Hub&descAlignY=75&descAlign=60"/>
+</p>
 
-<h2>🚀 Tech Stacks</h2>
+<div style="font-size: 24px; font-weight: bold; margin-top: 20px;">🚀 Tech Stacks</div>
 
-<div align="center" style="
+<div align="left" style="
   background-color: #ffffff;
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
@@ -32,9 +34,9 @@
 
 </div>
 
-<h2>🤝 Collaboration</h2>
+<div style="font-size: 24px; font-weight: bold; margin-top: 20px;">🤝 Collaboration</div>
 
-<div align="center" style="
+<div align="left" style="
   background-color: #ffffff;
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);

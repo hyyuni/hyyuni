@@ -6,6 +6,12 @@
 <br>
 <br>
 
+![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
+
+<br>
+
 <!-- Tech Stacks -->
 <h3>Tech Stacks</h3>
 
@@ -43,16 +49,3 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
-
-<div align="left">
-
-  <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyyuni&layout=compact&theme=radical" />
-
-  <h3>Git Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical" />
-
-  <h3>Algorithm</h3>
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
-  
-</div>

@@ -45,3 +45,26 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+
+<br>
+<br>
+
+<p style="font-size:24px; font-weight:600; text-align:center; margin:24px 0 16px 0;"><b>Most Used Languages</b></p>
+
+<p align="center">
+  <a href="https://github.com/$hyyuni">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=$hyyuni&layout=compact&hide_title=true&theme=tokyonight" />
+  </a>
+</p>
+
+<br>
+<br>
+
+<p style="font-size:24px; font-weight:600; text-align:center; margin:24px 0 16px 0;"><b>Git Stats</b></p>
+
+<p align="center">
+  <a href="https://github.com/$hyyuni">
+    <img src="https://github-readme-stats.vercel.app/api?username=$hyyuni&show_icons=true&include_all_commits=true&hide_title=true&theme=tokyonight" />
+  </a>
+</p>
+

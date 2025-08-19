@@ -12,8 +12,10 @@
 <br>
 <br>
 
-<--![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical)-->
-<--[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)-->
+<!--
+![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
+-->
 
 <br>
 

@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Welcome!&fontSize=50&animation=twinkling&fontColor=ffffff&desc=to%20Sunghyun's%20Hub&descAlignY=75&descAlign=60"/>
 </p>
+
+<br>
+
+> 안녕하세요, 인프라 엔지니어와 백엔드를 목표로 정진하는 개발자입니다.
+> Spring Boot 기반 백엔드와 Docker·Kubernetes를 활용한 서비스 운영 경험이 있으며, Jenkins·GitHub Actions를 통한 CI/CD 구축으로 안정적이고 자동화된 배포 환경을 만들어오고 있습니다.
+
 <br>
 <br>
 <br>

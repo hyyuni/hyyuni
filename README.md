@@ -1,10 +1,12 @@
+<!-- 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Welcome!&fontSize=50&animation=twinkling&fontColor=ffffff&desc=to%20Sunghyun's%20Hub&descAlignY=75&descAlign=60"/>
 </p>
 
 
 
-<h2>🚀 Tech Stacks</h2>
+<!-- Tech Stacks -->
+<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;">🚀 Tech Stacks</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -26,7 +28,8 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-<h2>🤝 Collaboration</h2>
+<!-- Collaboration -->
+<p style="font-size:24px; font-weight:600; margin:24px 0 16px 0;">🤝 Collaboration</p>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>

@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-<br>
-
 <!-- Collaboration -->
 <h3>Collaboration</h3>
 
@@ -46,9 +44,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<br>
-<br>
-
 <div align="left">
 
   <h3>Most Used Languages</h3>
@@ -58,6 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hyyuni&show_icons=true&theme=radical" />
 
   <h3>Algorithm</h3>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=cjn112070)](https://solved.ac/cjn112070/)
   
 </div>
